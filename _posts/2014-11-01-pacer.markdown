@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Pacer: Robot Locomotion Software"
+date:   2014-11-01
+---
+
+<p class="intro"><span class="dropcap">P</span>acer: locomotion planning and control for legged robots.</p>
+
+Project page:
+<a title="https://github.com/PositronicsLab/Pacer" href="https://github.com/PositronicsLab/Pacer">https://github.com/PositronicsLab/Pacer</a>
+
+<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/11/quad-terrain-2.png"><img class="alignnone size-full wp-image-677" src="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/11/quad-terrain-2.png" alt="quad-terrain 2" width="679" height="370" /></a>
+
+<a> Inverse dynamics for a quadruped on terrain</a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Y75e2uzOC8w
+" target="_blank"><img src="http://img.youtube.com/vi/Y75e2uzOC8w/0.jpg" 
+alt="Quadruped on rough terrain" width="400" border="10" /></a>
+
+
+<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/11/biped.png"><img class="alignnone size-full wp-image-681" src="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/11/biped.png" alt="biped" width="413" height="537" /></a>
+
+<a>Inverse dynamics for a biped</a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=qX6jB_yRyi0
+" target="_blank"><img src="http://img.youtube.com/vi/qX6jB_yRyi0/0.jpg" 
+alt="Biped walking in place on low friction" width="400" border="10" /></a>
+
+<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/11/trot.png"><img class="alignnone size-full wp-image-682" src="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/11/trot.png" alt="trot" width="634" height="400" /></a>
+
+<a>Inverse dynamics for a quadruped on a planar surface</a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=i-7jJB6IvZA
+" target="_blank"><img src="http://img.youtube.com/vi/i-7jJB6IvZA/0.jpg" 
+alt="Quadruped walking on low friction" width="400" border="10" /></a>

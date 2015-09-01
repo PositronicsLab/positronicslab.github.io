@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Simulation of hopping robot"
+date:   2014-07-01
+---
+
+<p class="intro"><span class="dropcap">T</span>his is a <a title="Moby" href="http://PositronicsLab.github.io/Moby">Moby</a> simulation of a hopping robot on terrain. Sam Zapolsky implemented the controller for the robot, which we simulated using adaptive integration (Bulirsch-Stoer) and continuous collision detection.</p>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=TPkihY3it8k
+" target="_blank"><img src="http://img.youtube.com/vi/TPkihY3it8k/0.jpg" 
+alt="Hopping robot on terrain" width="400" border="10" /></a>

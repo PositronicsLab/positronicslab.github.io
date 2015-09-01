@@ -1,0 +1,33 @@
+title: Positronics Lab
+author: "@ The George Washington University"
+description: "Planning Optimization and Simulation for Robotics"
+url: http://positronicslab.github.io
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+highlighter: pygments
+paginate: 2
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: People
+   url: /people.html
+ - title: Research
+   url: /blog/index.html
+ - title: Publications
+   url: /publications.html
+ - title: Code
+   url: /code.html
+
+social:
+   github: positronicslab
+#   twitter: brianmaierjr
+#   facebook: brianmaierjr
+#   email: brimaidesigns@gmail.com
+
+google_analytics: "UA-58263416-1"
