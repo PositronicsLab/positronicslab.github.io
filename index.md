@@ -12,3 +12,5 @@ We plan to use fast, dexterous robots to improve human quality of life, primaril
 [Ravelin]: /Ravelin
 [Moby]: /Moby
 [Pacer]: https://github.com/PositronicsLab/Pacer
+
+![PR2](assets/img/PR2.jpg)
