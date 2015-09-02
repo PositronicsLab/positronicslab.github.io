@@ -6,4 +6,13 @@ date:   2014-08-01
 
 <p class="intro"><span class="dropcap">T</span>his video from Roxana Leontie shows our PR2 robot, <em>Pepe</em>, autonomously opening  a drawer. Uncertainty from sensing the drawer's position and imprecision in Pepe's movements can make it challenging to perform tasks like this autonomously.</p>
 
-<a href="https://www.youtube.com/watch?v=jzcY20i1eBw"><img class="alignnone wp-image-161 size-full" src="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/08/pepe-drawer-opening.png" alt="pepe-drawer-opening" width="843" height="460" /></a>
+<iframe src="//www.youtube.com/embed/jzcY20i1eBw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+*****
+
+# Opening a drawer using the PR2
+My latest research focuses on <span style="color: #262626;">kinematic model extraction through robotic interaction</span>. Once we have a model the robot uses it to perform actions.  Few snapshots of opening a drawer given a model are in these videos that present it in-situ and in simulation. Will update after publication.
+
+<iframe src="//www.youtube.com/embed/jzcY20i1eBw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+<iframe src="//www.youtube.com/embed/GXr7aaZbR0E" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
