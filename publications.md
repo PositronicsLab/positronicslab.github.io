@@ -92,7 +92,7 @@ Evan Drumwright, Victor Ng-Thow-Hing, and Maja Mataric'. "The Task Matrix Framew
 &nbsp;
 
 Evan Drumwright and Victor Ng-Thow-Hing. "Toward Interactive
-Reaching for Humanoid Robots in Interactive Environments".
+Reaching for Humanoid Robots in Static Environments".
 <i>Proc. of the IEEE Intl. Conf. on Intelligent Robots and Systems</i> (IROS). Beijing, China. October, 2006.
 [<a href="http://cres.usc.edu/pubdb_html/files_upload/508.pdf">pdf</a>]
 
