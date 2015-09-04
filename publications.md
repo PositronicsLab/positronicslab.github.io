@@ -26,7 +26,7 @@ Samuel Zapolsky, Evan Drumwright, Ioannis Havoutis, Jonas Buchli, and Claudio Se
 
 &nbsp;
 
-Evan Drumwright. "Fast dynamic simulation of highly articulated robots with contact via Θ(n<sup>2</sup>) time dense generalized inertia matrix inversion". <i>Proc. 3rd Intl. Conf. on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR)</i>. Tsukuba, Japan, 2012.[<a href="asserts/pdfs/simpar.pdf">pdf</a>]
+Evan Drumwright. "Fast dynamic simulation of highly articulated robots with contact via Θ(n<sup>2</sup>) time dense generalized inertia matrix inversion". <i>Proc. 3rd Intl. Conf. on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR)</i>. Tsukuba, Japan, 2012. [<a href="assets/pdfs/simpar.pdf">pdf</a>]
 
 &nbsp;
 
