@@ -2,15 +2,10 @@
 layout: default
 title: Publications
 ---
-Samuel Zapolsky, Evan M. Drumwright, "Adaptive Integration for Controlling Speed vs. Accuracy in Multi-Rigid Body Simulation", <i>The 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2015)</i>, Hamburg, Germany, Sep 2015. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/08/IROS2015-Zapolsky.pdf">Zapolsky2015a</a>]
 
-&nbsp;
+#### Publications in legged robotic locomotion
 
 Samuel Zapolsky, Evan M. Drumwright, "Pacer: Modular, real-time software for legged robot planning and control", <i>The Dynamic Walking Conference (DW 2015)</i>, Columbus, Ohio, July 2015. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/08/Zapolsky_2015_DW.pdf">Zapolsky2015</a>]
-
-&nbsp;
-
-James R. Taylor, Evan M. Drumwright and Gabriel Parmer, "Making Time Make Sense in Robotic Simulation", <i>The 2014 International Conference on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR 2014)</i>, Bergamo, Italy, Oct 2014. [<a title="pdf" href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/11/taylor2014_2.pdf">Taylor2014a</a>]
 
 &nbsp;
 
@@ -18,11 +13,21 @@ Samuel Zapolsky, Evan Drumwright. "Quadratic Programming-Based Inverse Dynamics 
 
 &nbsp;
 
-James R. Taylor, Evan M. Drumwright and Gabriel Parmer, "Temporally Consistent Simulation of Robots and Their Controllers", Proceedings ASME 2014 International Design and Engineering Technical Conferences &amp; Computers and Information in Engineering Conference (IDETC),  Buffalo, NY, Aug 2014. [<a title="pdf" href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/09/taylor2014_1.pdf" target="_blank">Taylor2014</a>]
+Samuel Zapolsky, Evan Drumwright, Ioannis Havoutis, Jonas Buchli, and Claudio Semini. "Inverse Dynamics for a Quadruped Robot Locomoting Along Slippery Surfaces". <i>Proc. 16th Intl. Conf. on Climbing and Walking Robots (CLAWAR)</i>, Sydney, Australia, July 2013. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2013/08/Zapolsky2013.pdf">Zapolsky2013</a>]
 
 &nbsp;
 
-Samuel Zapolsky, Evan Drumwright, Ioannis Havoutis, Jonas Buchli, and Claudio Semini. "Inverse Dynamics for a Quadruped Robot Locomoting Along Slippery Surfaces". <i>Proc. 16th Intl. Conf. on Climbing and Walking Robots (CLAWAR)</i>, Sydney, Australia, July 2013. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2013/08/Zapolsky2013.pdf">Zapolsky2013</a>]
+
+#### Publications in robotic simulation 
+Samuel Zapolsky, Evan M. Drumwright, "Adaptive Integration for Controlling Speed vs. Accuracy in Multi-Rigid Body Simulation", <i>The 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2015)</i>, Hamburg, Germany, Sep 2015. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/08/IROS2015-Zapolsky.pdf">Zapolsky2015a</a>]
+
+&nbsp;
+
+James R. Taylor, Evan M. Drumwright and Gabriel Parmer, "Making Time Make Sense in Robotic Simulation", <i>The 2014 International Conference on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR 2014)</i>, Bergamo, Italy, Oct 2014. [<a title="pdf" href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/11/taylor2014_2.pdf">Taylor2014a</a>]
+
+&nbsp;
+
+James R. Taylor, Evan M. Drumwright and Gabriel Parmer, "Temporally Consistent Simulation of Robots and Their Controllers", Proceedings ASME 2014 International Design and Engineering Technical Conferences &amp; Computers and Information in Engineering Conference (IDETC),  Buffalo, NY, Aug 2014. [<a title="pdf" href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/09/taylor2014_1.pdf" target="_blank">Taylor2014</a>]
 
 &nbsp;
 
@@ -31,10 +36,6 @@ Evan Drumwright. "Fast dynamic simulation of highly articulated robots with cont
 &nbsp;
 
 Evan Drumwright and Dylan Shell. "Extensive analysis of Linear Complementarity Problem (LCP) solver performance on randomly generated rigid body contact problems." <i>Proc. IEEE/RSJ Intl. Conference on Intelligent Robots and Systems (IROS)</i>. Portugal, 2012. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2013/12/LCP-eval/">Project page</a>] [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2013/08/iros12.pdf">pdf</a>]
-
-&nbsp;
-
-Roxana Leontie, Evan Drumwright, Dylan Shell, and Rahul Simha. "Load Equalization on a Two-Arm Robot via Proprioceptive Sensing". <i>Proc. of the 13th Intl. Symp. on Experimental Robotics (ISER).</i> Quebec City, 2012. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2013/08/iser12.pdf">Leontie2012</a>]
 
 &nbsp;
 
@@ -63,6 +64,12 @@ Dylan Shell and Evan Drumwright. "Precise Generalized Contact Point and Normal D
 &nbsp;
 
 Evan Drumwright. "A Fast and Stable Penalty Method for Rigid Body Simulation." IEEE Trans. on Visualization and Computer Graphics, vol. 14, no. 1, pp. 231-240, January/February, 2008. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2013/08/tvcg.pdf">pdf</a>]
+
+&nbsp;
+
+#### Robotic manipulation and humanoid robots
+
+Roxana Leontie, Evan Drumwright, Dylan Shell, and Rahul Simha. "Load Equalization on a Two-Arm Robot via Proprioceptive Sensing". <i>Proc. of the 13th Intl. Symp. on Experimental Robotics (ISER).</i> Quebec City, 2012. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2013/08/iser12.pdf">Leontie2012</a>]
 
 &nbsp;
 
