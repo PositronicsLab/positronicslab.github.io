@@ -96,8 +96,6 @@ Reaching for Humanoid Robots in Interactive Environments".
 <i>Proc. of the IEEE Intl. Conf. on Intelligent Robots and Systems</i> (IROS). Beijing, China. October, 2006.
 [<a href="http://cres.usc.edu/pubdb_html/files_upload/508.pdf">pdf</a>]
 
-&nbsp;
-
 Evan Drumwright, Victor Ng-Thow-Hing, and Maja Mataric'.
 "Toward a Vocabulary of Primitive Task Programs for Humanoid
 Robots". Proc. of the <i>IEEE Intl. Conf. on Development and
