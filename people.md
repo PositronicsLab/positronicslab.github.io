@@ -8,7 +8,7 @@ title: People
 ###Faculty:
 
 ####[Evan Drumwright](http://robotics.gwu.edu/~drum)
-<img class="headShot" src="assets/img/evan-color2.jpg" alt="" height="119" />
+<img class="headShot" src="assets/img/evan-color2.jpg" alt="" width="113" />
 
 ### Ph. D. Students:
 
