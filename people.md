@@ -8,11 +8,11 @@ title: People
 ###Faculty:
 
 [Evan Drumwright](http://robotics.gwu.edu/~drum)
-<img class="headShot" src="assets/imgs/evan-color2.jpg" alt="" height="119" />
+<img class="headShot" src="assets/img/evan-color2.jpg" alt="" height="119" />
 
 ###Students:
 
-[James Taylor](http://robotics.gwu.edu/~james)
+####[James Taylor](http://robotics.gwu.edu/~james)
 <img class="headShot" src="http://robotics.gwu.edu/~james/wp-content/uploads/2014/06/profile.png" alt="jrtaylor" width="113" height="119" />
 
 [Samuel Zapolsky](http://samzapo.github.io/)
