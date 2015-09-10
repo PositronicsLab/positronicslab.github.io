@@ -2,6 +2,8 @@
 layout: default
 title: Publications
 ---
+Samuel Zapolsky, Evan M. Drumwright, "Inverse Dynamics with Rigid Contact and Friction", <i>arXiv paper submission</i>, 2015. [<a href="https://arxiv.org/submit/1349241/view">Zapolsky2015b</a>]
+
 Samuel Zapolsky, Evan M. Drumwright, "Adaptive Integration for Controlling Speed vs. Accuracy in Multi-Rigid Body Simulation", <i>The 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2015)</i>, Hamburg, Germany, Sep 2015. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/08/IROS2015-Zapolsky.pdf">Zapolsky2015a</a>]
 
 &nbsp;
