@@ -3,13 +3,11 @@ layout: default
 title: Publications
 ---
 #### Publications in legged robotic locomotion
-samuel zapolsky, evan m. drumwright, "inverse dynamics with rigid contact and friction", <i>arxiv paper submission</i>, 2015. [<a href="https://arxiv.org/submit/1349241/view">zapolsky2015b</a>]
+Samuel Zapolsky and Evan M. Drumwright, "Inverse dynamics with rigid contact and friction", <i>arxiv paper submission</i>, 2015. [<a href="https://arxiv.org/submit/1349241/view">zapolsky2015b</a>]
 
-Samuel Zapolsky and Evan M. Drumwright, "Inverse Dynamics with Rigid Contact and Friction", <i>Under review</i>, [<a href="assets/pdfs/inverse-dynamics.pdf">Zapolsky2015a</a>]
+Samuel Zapolsky and  Evan M. Drumwright, "Pacer: Modular, real-time software for legged robot planning and control", <i>The Dynamic Walking Conference (DW 2015)</i>, Columbus, Ohio, July 2015. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/08/Zapolsky_2015_DW.pdf">Zapolsky2015</a>]
 
-Samuel Zapolsky, Evan M. Drumwright, "Pacer: Modular, real-time software for legged robot planning and control", <i>The Dynamic Walking Conference (DW 2015)</i>, Columbus, Ohio, July 2015. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/08/Zapolsky_2015_DW.pdf">Zapolsky2015</a>]
-
-Samuel Zapolsky, Evan Drumwright. "Quadratic Programming-Based Inverse Dynamics Control for Legged Robots with Sticking and Slipping Frictional Contacts". <i>The 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2014)</i>, Chicago, IL, Sep 2014. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/09/zapolsky2014.pdf">Zapolsky2014</a>]
+Samuel Zapolsky and Evan M. Drumwright. "Quadratic Programming-Based Inverse Dynamics Control for Legged Robots with Sticking and Slipping Frictional Contacts". <i>The 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2014)</i>, Chicago, IL, Sep 2014. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/09/zapolsky2014.pdf">Zapolsky2014</a>]
 
 Samuel Zapolsky, Evan Drumwright, Ioannis Havoutis, Jonas Buchli, and Claudio Semini. "Inverse Dynamics for a Quadruped Robot Locomoting Along Slippery Surfaces". <i>Proc. 16th Intl. Conf. on Climbing and Walking Robots (CLAWAR)</i>, Sydney, Australia, July 2013. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2013/08/Zapolsky2013.pdf">Zapolsky2013</a>]
 
