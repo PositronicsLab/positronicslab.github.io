@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Publications
-<!-- https://arxiv.org/submit/1349241/view">Zapolsky2015b</a>] -->
 ---
 #### Publications in legged robotic locomotion
 Samuel Zapolsky, Evan M. Drumwright, "Inverse Dynamics with Rigid Contact and Friction", <i>arXiv paper submission</i>, 2015. [<a href="assets/pdfs/inverse-dynamics.pdf">Zapolsky2015b</a>]
