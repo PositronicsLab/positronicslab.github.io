@@ -5,6 +5,8 @@ title: Publications
 
 #### Publications in legged robotic locomotion
 
+Samuel Zapolsky and Evan M. Drumwright, "Inverse Dynamics with Rigid Contact and Friction", <i>Under review</i>, [<a href="assets/pdfs/inverse-dynamics.pdf">Zapolsky2015a</a>]
+
 Samuel Zapolsky, Evan M. Drumwright, "Pacer: Modular, real-time software for legged robot planning and control", <i>The Dynamic Walking Conference (DW 2015)</i>, Columbus, Ohio, July 2015. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/08/Zapolsky_2015_DW.pdf">Zapolsky2015</a>]
 
 Samuel Zapolsky, Evan Drumwright. "Quadratic Programming-Based Inverse Dynamics Control for Legged Robots with Sticking and Slipping Frictional Contacts". <i>The 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2014)</i>, Chicago, IL, Sep 2014. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/09/zapolsky2014.pdf">Zapolsky2014</a>]
