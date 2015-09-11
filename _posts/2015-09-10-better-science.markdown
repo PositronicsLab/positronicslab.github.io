@@ -6,11 +6,12 @@ date:   2010-09-07
 
 <p class="intro"><span class="dropcap">A</span>rticles on robotics, mathematics, and improving science:</p>
 
-### Some articles/videos on robotics
+### Some articles/videos on or related to robotics
 
 <a href="https://www.youtube.com/watch?v=gWOly9KdU3M">This "documentary" on "Google's Scary Robotic Army" is paranoid, and the experts speaking in it 
 not credible.</a> 
 
+[8/29/15] <a href="http://blogs.scientificamerican.com/talking-back/how-does-a-gymnast-or-even-a-fitness-walker-keep-from-falling/">Article in neuroscience how we balance and step</a>
 
 ### Articles on improving science
 
