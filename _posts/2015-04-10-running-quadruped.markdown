@@ -4,14 +4,17 @@ title:  "Running with a simulated quadruped"
 date:   2014-08-01
 ---
 
-<p class="intro"><span class="dropcap">W</span>e use <a href="http://github.com/PositronicsLab/Pacer">Pacer</a> to make a quadrupedal robot run in a multi-rigid body simulation with rigid contact</p>.
+<p class="intro"><span class="dropcap">W</span>e use <a href="http://github.com/PositronicsLab/Pacer">Pacer</a> to make a quadrupedal robot run in a multi-rigid body simulation with rigid contact.</p>
 
+<p>
 The robot is controlled using
     (1) joint error-feedback (PID) control (unilateral contact with friction);
     (2) inverse dynamics (unilateral contact with friction); and
     (3) inverted pendulum error-feedback stabilization (assuming compressive and frictional ground reaction forces)</p>
 
+<p>
 The direction that the robot heads is determined online using human inputs.  The robot runs toward a waypoint 10 meters in front of its starting position.
+</p>
 
 Running at 0.5 m/s (1.1 mph):
 
