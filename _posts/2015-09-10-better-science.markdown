@@ -4,7 +4,7 @@ title:  "Links to videos and articles on robotics, general science, education, a
 date:   2010-09-07
 ---
 
-<p class="intro"><span class="dropcap">A</span>rticles on robotics, mathematics, and improving science.</p>
+<p class="intro"><span class="dropcap">A</span>rticles on robotics, mathematics, and improving science:</p>
 
 ### Some articles/videos on robotics
 
@@ -26,6 +26,8 @@ make future such research more rigorous.
 <a href="http://www.slate.com/articles/health_and_science/science/2015/08/peer_review_in_public_james_hansen_s_climate_predictions_released_as_a_draft.html">Slate article on making peer review a public process</a>
 
 ### Articles on mathematics
+
+<a href="http://motherboard.vice.com/en_uk/read/forget-dark-energy-physicists-have-finally-cracked-overhand-knots?utm_source=MBtwitter">Neat article on intersection of topological mathematics and mechanics</a> 
 
 <a href="https://www.quantamagazine.org/20150707-can-information-rise-from-randomness/">Puzzle on extracting information from randomness</a>
 
