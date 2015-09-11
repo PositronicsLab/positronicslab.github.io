@@ -4,18 +4,12 @@ title:  "Running with a simulated quadruped"
 date:   2014-08-01
 ---
 
-<p class="intro"><span class="dropcap">R</span>unning with a small quadruped</p>
+<p class="intro"><span class="dropcap">W</span>e use <a href="http://github.com/PositronicsLab/Pacer">Pacer</a> to make a simulated robot run while using:
+    joint error-feedback (PID) control (unilateral contact with friction)
+    inverse dynamics (unilateral contact with friction)
+    inverted pendulum error-feedback (PID) stabilization (compressive and frictional ground reaction forces)
 
-Performed using: Pacer: locomotion planning and control for legged robots.
-Project page:
-<a title="https://github.com/PositronicsLab/Pacer" href="https://github.com/PositronicsLab/Pacer">https://github.com/PositronicsLab/Pacer</a></p>
-
-We can use this software to have the robot run while using:
-joint error-feedback (PID) control (unilateral contact with friction)
-inverse dynamics (unilateral contact with friction)
-inverted pendulum error-feedback (PID) stabilization (compressive and frictional ground reaction forces)
-
-The direction that the robot is heading is refined online.  The robot is running toward a waypoint 10 meters in front of the robots starting position.
+The direction that the robot heads is determined online using human inputs.  The robot runs toward a waypoint 10 meters in front of its starting position.
 
 Running at 0.5 m/s (1.1 mph):
 
