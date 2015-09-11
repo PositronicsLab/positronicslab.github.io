@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title:  "Running with a simulated quadruped"
-date:   2015-04-10
+title:  "Runing with a simulated quadruped"
+date:   2014-08-01
 ---
 
 <p class="intro"><span class="dropcap">R</span>unning with a small quadruped (trotting gait)
