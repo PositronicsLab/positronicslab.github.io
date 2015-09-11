@@ -6,7 +6,14 @@ date:   2010-09-07
 
 <p class="intro"><span class="dropcap">L</span>inks to articles on robotics, mathematics, and improving science.</p>
 
-    <a hrf="http://kernelmag.dailydot.com/issue-sections/headline-story/14046/mooc-revolution-uber-for-education/">The MOOC revolution that wasn't. Or: improving on current best practices in education is hard.</a>
+    <a href="http://www.wired.com/2015/08/science-problems-web-fix/">Results from the Open Science Collaboration's attempt to replicate 100 top cited studies in Psychology.</a> Spoiler: only about a third could be replicated. This is the beauty of science, though: that scientists set out to do this will hopefully
+make future such research more rigorous.
+
+    <a href="https://www.quantamagazine.org/20150707-can-information-rise-from-randomness/">Puzzle on extracting information from randomness</a>
+
+    <a href="http://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving.html">A great illustration of confirmation bias</a>
+
+    <a href="http://kernelmag.dailydot.com/issue-sections/headline-story/14046/mooc-revolution-uber-for-education/">The MOOC revolution that wasn't. Or: improving on current best practices in education is hard.</a>
 
     <a href="http://fivethirtyeight.com/features/science-isnt-broken/#part1">Great interactive web page that allows you to hack your way to scientific glory</a>
 
