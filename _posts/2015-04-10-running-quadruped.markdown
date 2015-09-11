@@ -4,7 +4,7 @@ title:  "Running with a simulated quadruped"
 date:   2014-08-01
 ---
 
-<p class="intro"><span class="dropcap">W</span>e use <a href="http://github.com/PositronicsLab/Pacer">Pacer</a> to make a simulated robot run</p>.
+<p class="intro"><span class="dropcap">W</span>e use <a href="http://github.com/PositronicsLab/Pacer">Pacer</a> to make a quadrupedal robot run in a multi-rigid body simulation with rigid contact</p>.
 
 The robot is controlled using
     (1) joint error-feedback (PID) control (unilateral contact with friction);
