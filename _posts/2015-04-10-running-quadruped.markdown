@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "High-level Quadruped Control (Joystick)"
-date:   2015-05-10
+title:  "Running with a simulated quadruped"
+date:   2014-08-01
 ---
 
 <p class="intro"><span class="dropcap">T</span>he video demonstrates open-loop quadruped locomotion using the <a href="https://github.com/PositronicsLab/Pacer" title="Pacer">Pacer</a> software package.</p>
