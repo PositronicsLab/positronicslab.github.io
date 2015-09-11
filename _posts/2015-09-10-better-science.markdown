@@ -14,7 +14,7 @@ not credible.</a>
 
 ### Articles on improving science
 
-<a href="http://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving.html">A great illustration of confirmation bias</a>
+[6/2/15] <a href="http://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving.html">A great illustration of confirmation bias</a>
 
 <a href="http://www.wired.com/2015/08/science-problems-web-fix/">Results from the Open Science Collaboration's attempt to replicate 100 top cited studies in Psychology.</a> Spoiler: only about a third could be replicated. This is the beauty of science, though: that scientists set out to do this will hopefully
 make future such research more rigorous.
