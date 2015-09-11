@@ -4,8 +4,9 @@ title:  "Running with a simulated quadruped"
 date:   2014-08-01
 ---
 
-<p class="intro"><span class="dropcap">T</span>he video demonstrates open-loop quadruped locomotion using the <a href="https://github.com/PositronicsLab/Pacer" title="Pacer">Pacer</a> software package.</p>
+<p class="intro"><span class="dropcap">R</span>unning with a small quadruped (trotting gait)
+Performed using: Pacer: locomotion planning and control for legged robots.
+Project page:
+<a title="https://github.com/PositronicsLab/Pacer" href="https://github.com/PositronicsLab/Pacer">https://github.com/PositronicsLab/Pacer</a></p>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=pOzGo5PdZ-k
-" target="_blank"><img src="http://img.youtube.com/vi/pOzGo5PdZ-k/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="400" border="10" /></a>
+
