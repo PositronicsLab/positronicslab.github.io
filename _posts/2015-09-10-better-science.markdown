@@ -36,6 +36,10 @@ make future such research more rigorous.
 
 ### Articles on education
 
+[9/19/15] <a href="http://www.theatlantic.com/business/archive/2015/09/billion-dollar-ball-college-football-business/406249/">College football has almost nothing to do with college</a> 
+
+[9/14/15] <a href="https://collegescorecard.ed.gov">College scorecard</a> This is a wew government site that allows you to compare universities using different metrics.
+
 [8/23/15] <a href="http://kernelmag.dailydot.com/issue-sections/headline-story/14046/mooc-revolution-uber-for-education/">The MOOC revolution that wasn't.</a>Or: improving on current best practices in education is hard.
 
 
