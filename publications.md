@@ -39,7 +39,7 @@ Evan M. Drumwright. "A Fast and Stable Penalty Method for Rigid Body Simulation.
 
 #### Robotic manipulation and humanoid robots
 
-Joshua Lurz and Evan M. Drumwright. "Reducing Human Fall Injuries using a Mobile Manipulator". <i>Proc. of the IEEE-RAS Intl. Conf. on Humanoid Robotics</i>. Seoul, Korea, 2015. [<a href="assets/pdfs/humanoids-2015.pdf"]pdf</a>
+Joshua Lurz and Evan M. Drumwright. "Reducing Human Fall Injuries using a Mobile Manipulator". <i>Proc. of the IEEE-RAS Intl. Conf. on Humanoid Robotics</i>. Seoul, Korea, 2015. [<a href="assets/pdfs/humanoids-2015.pdf">pdf</a>]
 
 Roxana Leontie, Evan M. Drumwright, Dylan Shell, and Rahul Simha. "Load Equalization on a Two-Arm Robot via Proprioceptive Sensing". <i>Proc. of the 13th Intl. Symp. on Experimental Robotics (ISER).</i> Quebec City, 2012. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2013/08/iser12.pdf">Leontie2012</a>]
 
