@@ -13,8 +13,8 @@ date:   2015-10-02
 
 <p>We next developed a series of scenarios to assess whether the robot, the PR2, would be able to arrest the fall. Below, you can see a video showing several trials of the humanoid falling alone, along with attempts by the robot to arrest the fall using one of these strategies:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=OKvNG_Zudw0
-" target="_blank"><img src="http://img.youtube.com/vi/OKvNG_Zudw0/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=UOkgcJ5eZDk
+" target="_blank"><img src="http://img.youtube.com/vi/UOkgcJ5eZDk/0.jpg" 
 alt="Video of Humanoid Falls" width="400" border="10" /></a>
 
 <b>Relevant Research:</b>
