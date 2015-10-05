@@ -19,4 +19,4 @@ alt="Video of Humanoid Falls" width="400" border="10" /></a>
 
 <b>Relevant Research:</b>
 
-Joshua Lurz and Evan M. Drumwright. "Reducing Human Fall Injuries using a Mobile Manipulator". <i>Proc. of the IEEE-RAS Intl. Conf. on Humanoid Robotics</i>. Seoul, Korea, 2015. [<a href="assets/pdfs/humanoids-2015.pdf">pdf</a>]
+Joshua Lurz and Evan M. Drumwright. "Reducing Human Fall Injuries using a Mobile Manipulator". <i>Proc. of the IEEE-RAS Intl. Conf. on Humanoid Robotics</i>. Seoul, Korea, 2015. [<a href="http://positronicslab.github.io/assets/pdfs/humanoids-2015.pdf">pdf</a>]
