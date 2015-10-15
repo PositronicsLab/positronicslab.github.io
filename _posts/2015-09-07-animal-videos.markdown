@@ -6,4 +6,4 @@ date:   2015-09-07
 
 <p class="intro"><span class="dropcap">V</span>ideos of animals locomoting and manipulating objects dynamically</p>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58-atNakMWw" frameborder="0" allowfullscreen></iframe>
