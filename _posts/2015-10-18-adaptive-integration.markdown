@@ -6,7 +6,7 @@ date:   2015-10-17
 
 <p class="intro"><span class="dropcap">T</span>his research focuses on approaches for speeding multi-rigid body dynamics simulation of robots with intermittent contacts.</p>
 
-The speed of such simulations with contact seems to be reaching a performance asymptote. Wang (2013) profiled such
+The speed of such simulations seems to be reaching a performance asymptote. Wang (2013) profiled such
 a simulation (using Gazebo/ODE) modeling multiple robotic scenarios and
 found that the bulk of running time goes to processes related to the
 constraint (contact, joint limit, and joint equations) solve.
