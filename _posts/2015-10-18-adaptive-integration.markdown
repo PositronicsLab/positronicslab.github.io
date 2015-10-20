@@ -27,7 +27,7 @@ The practical implications of lower differential algebraic equation (DAE) / diff
 
 #### We want the fastest simulation speed possible without artifacts
 
-Our paper (Zapolsky and Drumwright, 2015) relaxes the notion of accuracy even further by seeking only to avoid *clearly recognizable artifacts* that occur with time stepping approaches: objects interpenetrating and objects passing completely through one another (tunneling). We do not *currently* search for transitions between sticking and slipping contact, because we believe that the effects of these transitions on solution accuracy are typically small.   
+Our paper (Zapolsky and Drumwright, 2015) relaxes the notion of accuracy even further by seeking only to avoid *clearly recognizable artifacts* that occur with time stepping approaches: objects interpenetrating and objects passing completely through one another (tunneling). We do not currently search for transitions between sticking and slipping contact, because we believe that the effects of these transitions on solution accuracy are typically small (further experimentation is necessary to test this hypothesis).   
 
 #### Preventing tunneling and interpenetration
 
