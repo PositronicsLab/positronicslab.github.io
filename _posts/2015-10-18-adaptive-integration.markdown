@@ -4,10 +4,12 @@ title:  "Adaptive Integration for Controlling Speed vs. Accuracy in Multi-Rigid 
 date:   2015-10-17
 ---
 
-<p class="intro"><span class="dropcap">T</span>he speed of time stepping-based, multi-rigid body simulations with contact seems to be reaching a performance asymptote. Wang (2013) profiled such
+<p class="intro"><span class="dropcap">T</span>his research focuses on approaches for speeding multi-rigid body dynamics simulation of robots with intermittent contacts.</p>
+
+The speed of such simulations with contact seems to be reaching a performance asymptote. Wang (2013) profiled such
 a simulation (using Gazebo/ODE) modeling multiple robotic scenarios and
 found that the bulk of running time goes to processes related to the
-constraint (contact, joint limit, and joint equations) solve.</p> 
+constraint (contact, joint limit, and joint equations) solve.
 
 This process has received considerable attention from both researchers and implementors, and large further improvements seem unlikely, at least in our area of
 interest (simulating typical manipulator, legged, and humanoid robots).
@@ -33,7 +35,7 @@ Our simulation approach uses Mirtich's Conservative Advancement technique to pre
 
 ## Adaptive integration technique
 
-Our research uses the approach described above and standard error control techniques to integrate adaptively. If our argument that DAE/dCP solution accuracy is less important than prevention of artifacts is reasonable and if an interval is free of nonsmooth events, then the main inhibitor of larger steps is stability of the integration algorithm. We avoid implicit integration algorithms: they are both computationally expensive and cannot readily be extended to prevent tunneling. We instead using an adaptive first order integrator with an estimate of the local error in kinetic energy as a proxy for system stability.  
+Our research uses the approach described above and standard error control techniques to integrate adaptively. If our argument (that DAE/dCP solution accuracy is less important than prevention of artifacts) is reasonable and if an interval is free of nonsmooth events, then the main inhibitor of larger steps is stability of the integration algorithm. We avoid implicit integration algorithms: they are both computationally expensive and cannot readily be extended to prevent tunneling. We instead using an adaptive first order integrator with an estimate of the local error in kinetic energy as a proxy for system stability.  
 
 ## Our findings
 
