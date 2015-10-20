@@ -9,12 +9,9 @@ a simulation (using Gazebo/ODE) modeling multiple robotic scenarios and
 found that the bulk of running time goes to processes related to the
 constraint (contact, joint limit, and joint equations) solve.</p> 
 
-<p>
-This process
-has received considerable attention from both researchers and implementors,
-and large further improvements seem unlikely, at least in our area of
+This process has received considerable attention from both researchers and implementors, and large further improvements seem unlikely, at least in our area of
 interest (simulating typical manipulator, legged, and humanoid robots).
-_Given that it is unlikely to reduce the computational time to take an integration step, this research sought to find whether larger steps could be taken for simulating typical manipulator, legged, and humanoid robots._</p>
+*Given that it is unlikely to reduce the computational time to take an integration step, this research sought to find whether larger steps could be taken for simulating typical manipulator, legged, and humanoid robots.*
 
 ## Notions of accuracy of dynamic robotic simulations with contact
 
