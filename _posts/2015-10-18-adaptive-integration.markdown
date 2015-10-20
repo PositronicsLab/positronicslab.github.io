@@ -35,7 +35,7 @@ Our simulation approach uses Mirtich's Conservative Advancement technique to pre
 
 ## Adaptive integration technique
 
-Our research uses the approach described above and standard error control techniques to integrate adaptively. If our argument (that DAE/dCP solution accuracy is less important than prevention of artifacts) is reasonable and if an interval is free of nonsmooth events, then the main inhibitor of larger steps is stability of the integration algorithm. We avoid implicit integration algorithms: they are both computationally expensive and cannot readily be extended to prevent tunneling. We instead using an adaptive first order integrator with an estimate of the local error in kinetic energy as a proxy for system stability.  
+Our research uses the approach described above and standard error control techniques to integrate adaptively. If our argument (that DAE/dCP solution accuracy is less important than prevention of artifacts) is reasonable and if an interval is free of nonsmooth events, then the main inhibitor of larger steps is stability of the integration algorithm. We avoid numerically stable (but computationally expensive) implicit integration algorithms: they cannot be extended to prevent tunneling in straightforward fashion. We instead using an adaptive first order integrator with an estimate of the local error in kinetic energy as a proxy for system stability.  
 
 ## Our findings
 
