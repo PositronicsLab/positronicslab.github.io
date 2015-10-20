@@ -13,11 +13,11 @@ constraint (contact, joint limit, and joint equations) solve.
 
 This process has received considerable attention from both researchers and implementors, and large further improvements seem unlikely, at least in our area of
 interest (simulating typical manipulator, legged, and humanoid robots).
-*Given that it is unlikely to reduce the computational time to take an integration step, this research sought to find whether larger steps could be taken for simulating typical manipulator, legged, and humanoid robots.*
+*Given that it is unlikely to reduce the computational time to take an integration step, this research seeks to find whether larger steps could be taken for simulating typical manipulator, legged, and humanoid robots.*
 
 ## Notions of accuracy of dynamic robotic simulations with contact
 
-Our target application presents a particular challenge: the simulation must update at a step size smaller than the inverse of a robot's control loop frequency (we do not wish to restrict control inputs to be smooth).
+For our target application, the simulation must update at a step size smaller than the inverse of a robot's control loop frequency (we do not wish to restrict control inputs to be smooth).
 Typical control loop frequencies for such robots are on the order of 1000 Hz. Such speeds yield small steps and generally low truncation error even with first order integration.
 
 
