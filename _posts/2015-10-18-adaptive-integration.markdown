@@ -41,7 +41,7 @@ Our research uses the approach described above and standard error control techni
 
 * Local error in system kinetic energy seems to be a reasonable proxy for system stability: if the integration becomes unstable, the kinetic energy will grow exponentially over a small time interval.
 * We can get 2x-3x larger step sizes for simulating a walking quadrupedal robot, but are doing 3x as much computation on each step (this can conceivably be reduced to 2x as much work using parallelism). 
-* An experiment with a passive dynamic walker (Coleman et al., 2001) indicates that applying higher order integration techniques to simulating robots (modeled with rigid body dynamics and undergoing intermittent contact) is unlikely to be computationally efficient compared to current first-order approaches. 
+* An experiment with a passive dynamic walker (taken from code for Coleman et al., 2001) indicates that applying higher order integration techniques to simulating robots (modeled with rigid body dynamics and undergoing intermittent contact) is unlikely to be computationally efficient compared to current first-order approaches. 
 * As we expected, the symplectic nature of the semi-implicit integrator does not positively impact stability on non-Hamiltonian systems (i.e., most robots).
 * We can attain integrate with far larger step sizes stably and without obvious artifacts by removing substantial kinetic energy from the system. Practical and theoretical effects on the generated solution are currently unknown.    
 
