@@ -5,9 +5,12 @@ date:   2015-10-17
 ---
 
 <p class="intro"><span class="dropcap">T</span>he speed of time stepping-based, multi-rigid body simulations with contact seems to be reaching a performance asymptote. Wang (2013) profiled such
-simulation (using Gazebo/ODE) modeling multiple robotic scenarios and
+a simulation (using Gazebo/ODE) modeling multiple robotic scenarios and
 found that the bulk of running time goes to processes related to the
-constraint (contact, joint limit, and joint equations) solve. This process
+constraint (contact, joint limit, and joint equations) solve.</p> 
+
+<p>
+This process
 has received considerable attention from both researchers and implementors,
 and large further improvements seem unlikely, at least in our area of
 interest (simulating typical manipulator, legged, and humanoid robots).
