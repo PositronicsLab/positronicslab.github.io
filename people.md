@@ -26,3 +26,7 @@ title: People
 
 The Positronics Lab is currently at capacity for Ph. D. students. Only truly outstanding Ph. D. students will be considered.
 
+### Alumni
+
+#### Matt Scaperoth, B.S., 2015 (expected)
+<img class="headShot" src="assets/img/scaperoth.jpg" height="119" />
