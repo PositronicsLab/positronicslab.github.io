@@ -15,6 +15,8 @@ not credible.</a>
 
 ### Articles on improving science
 
+[11/30/15] <a href="https://theconversation.com/how-computers-broke-science-and-what-we-can-do-to-fix-it-49938">How computers broke science and what we can do to fix it</a>: reproducibility in the age of computing
+
 [10/25/15] <a href="https://www.reddit.com/r/science/comments/3pmfis/plos_science_wednesday_hi_reddit_were_dr_john/">AMA with John Ioannidis</a>, author of "Why most published research findings are false and a primary mover in the reproducible research movement.
 
 [8/27/15] <a href="http://www.wired.com/2015/08/science-problems-web-fix/">Results from the Open Science Collaboration's attempt to replicate 100 top cited studies in Psychology.</a> Spoiler: only about a third could be replicated. This is the beauty of science, though: that scientists set out to do this will hopefully
