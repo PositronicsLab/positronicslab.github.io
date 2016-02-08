@@ -19,7 +19,7 @@ navigation:
  - title: People
    url: /people
  - title: Research
-   url: /blog
+   url: /research
  - title: Publications
    url: /publications
  - title: Code
