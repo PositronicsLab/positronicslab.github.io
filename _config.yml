@@ -5,6 +5,7 @@ url: http://positronicslab.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
+gems: [jekyll-paginate]
 
 markdown: redcarpet
 redcarpet:
@@ -14,20 +15,20 @@ paginate: 20
 
 navigation:
  - title: Home
-   url: /index.html
+   url: /
  - title: People
-   url: /people.html
+   url: /people
  - title: Research
-   url: /blog/index.html
+   url: /blog
  - title: Publications
-   url: /publications.html
+   url: /publications
  - title: Code
-   url: /code.html
+   url: /code
 
 social:
    github: positronicslab
-#   twitter: brianmaierjr
-#   facebook: brianmaierjr
-#   email: brimaidesigns@gmail.com
+#   twitter: 
+#   facebook: 
+#   email: 
 
-google_analytics: "UA-58263416-1"
+google_analytics: "UA-73497600-1"

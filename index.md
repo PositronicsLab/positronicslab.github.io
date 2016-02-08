@@ -17,4 +17,4 @@ quadrupeds and mobile manipulators.
 [Moby]: /Moby
 [Pacer]: https://github.com/PositronicsLab/Pacer
 
-![PR2](assets/img/PR2.jpg)
+![PR2](/assets/img/PR2.jpg)

@@ -8,7 +8,7 @@ title: People
 ###Faculty:
 
 ####[Evan Drumwright](http://edrumwri.github.io)
-<img class="headShot" src="assets/img/evan-color2.jpg" alt="" height="238" />
+<img class="headShot" src="/assets/img/evan-color2.jpg" alt="" height="238" />
 
 ### Ph. D. Students:
 
@@ -29,4 +29,4 @@ The Positronics Lab is currently at capacity for Ph. D. students. Only truly out
 ### Alumni
 
 #### Matt Scaperoth, B.S., 2015 (expected)
-<img class="headShot" src="assets/img/scaperoth.jpg" height="238" />
+<img class="headShot" src="/assets/img/scaperoth.jpg" height="238" />
