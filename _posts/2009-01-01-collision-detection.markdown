@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Continuous collision detection"
+category: simulation
 date:   2009-01-01
 ---
 <p class="intro"><span class="dropcap">C</span>ontinuous collision detection (CCD) permits accurate time of contact determination and

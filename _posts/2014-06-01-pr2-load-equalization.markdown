@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Load equalization via proprioceptive force feedback"
+category: manipulation
 date:   2014-06-01
 ---
 

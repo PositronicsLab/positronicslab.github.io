@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "High-level Quadruped Control (Joystick)"
+category: locomotion
 date:   2015-05-10
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Pacer: Robot Locomotion Software"
+category: locomotion
 date:   2014-11-01
 ---
 

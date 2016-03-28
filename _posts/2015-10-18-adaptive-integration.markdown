@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Adaptive Integration for Controlling Speed vs. Accuracy in Multi-Rigid Body Simulation"
+category: simulation
 date:   2015-10-17
 ---
 

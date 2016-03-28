@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Opening drawers with PR2"
+category: manipulation
 date:   2014-08-01
 ---
 

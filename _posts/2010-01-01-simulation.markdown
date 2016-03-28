@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Dynamic robotic simulation"
+category: simulation
 date:   2010-01-01
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Reducing Human Fall Injuries using a Mobile Manipulator"
+category: manipulation
 date:   2015-10-02
 ---
 

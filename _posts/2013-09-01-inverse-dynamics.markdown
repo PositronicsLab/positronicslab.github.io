@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Inverse Dynamics with Contact Force Prediction"
+category: idyn
 date:   2013-09-01
 ---
 

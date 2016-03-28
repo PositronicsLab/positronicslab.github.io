@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Simulation of hopping robot"
+category: "simulation locomotion"
 date:   2014-07-01
 ---
 

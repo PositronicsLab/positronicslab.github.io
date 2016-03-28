@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Running with a simulated quadruped"
+category: locomotion
 date:   2014-08-01
 ---
 

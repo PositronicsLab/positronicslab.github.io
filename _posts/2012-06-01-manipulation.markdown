@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Mobile manipulation"
+category: manipulation
 date:   2012-06-01
 ---
 <h3>Load equalization via proprioceptive force feedback</h3>
