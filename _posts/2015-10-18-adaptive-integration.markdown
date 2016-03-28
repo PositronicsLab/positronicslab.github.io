@@ -31,18 +31,18 @@ Our paper (Zapolsky and Drumwright, 2015) seeks to avoid *clearly recognizable a
 
 #### Preventing tunneling and interpenetration
 
-Our simulation approach uses Mirtich's Conservative Advancement technique to prevent  partial interpenetration and tunneling. Our approach extends Mirtich's thesis by no longer requiring bodies in sustained contact to be constantly moving (i.e., no "microcollisions" are necessary).
+Our simulation approach uses Mirtich's Conservative Advancement technique to prevent  partial interpenetration and tunneling. 
 
 ## Adaptive integration technique
 
-Our research uses the approach described above and standard error control techniques to integrate adaptively. If our argument (that DAE/dCP solution accuracy is less important than prevention of artifacts) is reasonable and if an interval is free of nonsmooth events, then the main inhibitor of larger steps is stability of the integration algorithm. We avoid numerically stable (but computationally expensive) implicit integration algorithms: they cannot be extended to prevent tunneling in straightforward fashion. We instead using an adaptive first order integrator with an estimate of the local error in kinetic energy as a proxy for system stability; the integrator takes smaller steps when necessary to keep this relative error below a threshold.
+Our research uses the approach described above and standard error control techniques to integrate adaptively. If our argument (that DAE/dCP solution accuracy is less important than prevention of artifacts) is reasonable and if an interval is free of nonsmooth events, then the main inhibitor of larger steps is stability of the integration algorithm. We avoid A-stable implicit integration algorithms: they cannot be extended to prevent tunneling in straightforward fashion. We instead using an adaptive first order integrator with an estimate of the local error in kinetic energy as a proxy for system stability; the integrator takes smaller steps when necessary to keep this relative error below a threshold.
 
 ## Our findings
 
 * Local error in system kinetic energy seems to be a reasonable proxy for system stability: if the integration becomes unstable, the kinetic energy will grow exponentially over a small time interval.
 * We can get 2x-3x larger step sizes for simulating a walking quadrupedal robot, but are doing 3x as much computation on each step (this can conceivably be reduced to 2x as much work using parallelism). 
 * An experiment with a passive dynamic walker (taken from code for Coleman et al., 2001) indicates that applying higher order integration techniques to simulating robots (modeled with rigid body dynamics and undergoing intermittent contact) is unlikely to be computationally efficient compared to current first-order approaches. 
-* As we expected, the symplectic nature of the semi-implicit integrator does not positively impact stability on non-Hamiltonian systems (i.e., most robots).
+* The symplectic nature of the semi-implicit Euler integrator does not positively impact stability on non-conservative systems (i.e., most robots), compared even to the fully explicit Euler integrator.
 * We can integrate with far larger step sizes stably and without obvious artifacts by removing substantial kinetic energy from the system. Practical and theoretical effects on the generated solution are currently unknown.    
 
 ![Trotting stability](http://positronicslab.github.io/assets/img/iros15-walking-stability.png)
