@@ -43,7 +43,6 @@ Our research uses the approach described above and standard error control techni
 * We can get 2x-3x larger step sizes for simulating a walking quadrupedal robot, but are doing 3x as much computation on each step (this can conceivably be reduced to 2x as much work using parallelism). 
 * An experiment with a passive dynamic walker (taken from code for Coleman et al., 2001) indicates that applying higher order integration techniques to simulating robots (modeled with rigid body dynamics and undergoing intermittent contact) is unlikely to be computationally efficient compared to current first-order approaches. 
 * The symplectic nature of the semi-implicit Euler integrator does not positively impact stability on non-conservative systems (i.e., most robots), compared even to the fully explicit Euler integrator.
-* We can integrate with far larger step sizes stably and without obvious artifacts by removing substantial kinetic energy from the system. Practical and theoretical effects on the generated solution are currently unknown.    
 
 ![Trotting stability](http://positronicslab.github.io/assets/img/iros15-walking-stability.png)
 <p>Simulation stability (using the proxy of estimated local error in kinetic energy) during a trotting motion of the robot shown below.</p>
