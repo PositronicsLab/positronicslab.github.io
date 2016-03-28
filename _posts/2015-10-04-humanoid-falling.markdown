@@ -8,7 +8,7 @@ date:   2015-10-02
 
 <p>One of the surprising discoveries of our early research was the lack of a publicly available, computationally fast, human model. To address this gap, we developed a 20-DOF rigid body model (shown below) based on Dempster’s research on human body anthropometry. That study provides effective link lengths, 3-DOF joint limits, relative masses, and center-of-mass positions for links. We plan to release the source code for this model so that it can be used by other researchers.
 
-[Humanoid](http://positronicslab.github.io/assets/img/humanoid.png)
+![Humanoid](http://positronicslab.github.io/assets/img/humanoid.png)
 
 Screen capture of the humanoid in a standing configuration selected to show the joint locations and degrees of freedom.
 
