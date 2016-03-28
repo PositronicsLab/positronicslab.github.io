@@ -23,11 +23,11 @@ Typical control loop frequencies for such robots are on the order of 1000 Hz. Su
 
 #### What are the practical implications when solution accuracy is not high?
 
-The practical implications of lower differential algebraic equation (DAE) / differential complementarity problem (dCP) solution accuracy on robotics applications is an open problem, even for robots with smooth or mostly smooth dynamics. Instead, we work toward a different notion of accuracy by ensuring that nonsmooth events (impacts, for example) occur only at the endpoints of an integration time interval. 
+The practical implications of lower differential algebraic equation (DAE) / differential complementarity problem (dCP) solution accuracy on robotics applications is an open problem, even for robots with smooth or mostly smooth dynamics.  
 
 #### We want the fastest simulation speed possible without artifacts
 
-Our paper (Zapolsky and Drumwright, 2015) relaxes the notion of accuracy even further by seeking only to avoid *clearly recognizable artifacts* that occur with time stepping approaches: objects interpenetrating and objects passing completely through one another (tunneling). We do not currently search for transitions between sticking and slipping contact, because we believe that the effects of these transitions on solution accuracy are typically small (further experimentation is necessary to test this hypothesis).   
+Our paper (Zapolsky and Drumwright, 2015) seeks to avoid *clearly recognizable artifacts* that occur with time stepping approaches: objects interpenetrating and objects passing completely through one another (tunneling). We do not currently search for transitions between sticking and slipping contact, because we believe that the effects of these transitions on solution accuracy are typically small (further experimentation is necessary to test this hypothesis).   
 
 #### Preventing tunneling and interpenetration
 
