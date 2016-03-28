@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-### Our Mission
+### Our research focus 
 
-The Positronics Lab at The George Washington University investigates dynamic robotic simulation and legged robot locomotion toward our greater goal of getting robots to perform tasks faster and with greater dexterity than humans and animals.
+The Positronics Lab at The George Washington University investigates dynamic robotic simulation and legged robot locomotion toward our greater goal of getting robots to perform contact-intensive tasks as fluidly as humans and animals.
 
 Two tools that we use to conduct this research are multibody dynamics and simulation with contact and impact, for which we have written and maintain the open source libraries [Ravelin] and [Moby]. **Moby** focuses on fast and accurate 
 solutions
