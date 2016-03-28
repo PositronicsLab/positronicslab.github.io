@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 #### Publications in legged robotic locomotion
-Samuel Zapolsky, Evan M. Drumwright, "Inverse Dynamics with Rigid Contact and Friction", <i>arXiv paper submission</i>, 2015. [<a href="assets/pdfs/inverse-dynamics.pdf">Zapolsky2015b</a>]
+Samuel Zapolsky, Evan M. Drumwright, "Inverse Dynamics with Rigid Contact and Friction", <i>arXiv paper submission</i>, 2015. [<a href="/assets/pdfs/inverse-dynamics.pdf">Zapolsky2015b</a>]
 
 Samuel Zapolsky and  Evan M. Drumwright, "Pacer: Modular, real-time software for legged robot planning and control", <i>The Dynamic Walking Conference (DW 2015)</i>, Columbus, Ohio, July 2015. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/08/Zapolsky_2015_DW.pdf">Zapolsky2015</a>]
 
@@ -19,7 +19,7 @@ James R. Taylor, Evan M. Drumwright and Gabriel Parmer, "Making Time Make Sense 
 
 James R. Taylor, Evan M. Drumwright and Gabriel Parmer, "Temporally Consistent Simulation of Robots and Their Controllers", Proceedings ASME 2014 International Design and Engineering Technical Conferences &amp; Computers and Information in Engineering Conference (IDETC),  Buffalo, NY, Aug 2014. [<a title="pdf" href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/09/taylor2014_1.pdf" target="_blank">Taylor2014</a>]
 
-Evan M. Drumwright. "Fast dynamic simulation of highly articulated robots with contact via Θ(n<sup>2</sup>) time dense generalized inertia matrix inversion". <i>Proc. 3rd Intl. Conf. on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR)</i>. Tsukuba, Japan, 2012. [<a href="assets/pdfs/simpar.pdf">pdf</a>]
+Evan M. Drumwright. "Fast dynamic simulation of highly articulated robots with contact via Θ(n<sup>2</sup>) time dense generalized inertia matrix inversion". <i>Proc. 3rd Intl. Conf. on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR)</i>. Tsukuba, Japan, 2012. [<a href="/assets/pdfs/simpar.pdf">pdf</a>]
 
 Evan M. Drumwright and Dylan Shell. "Extensive analysis of Linear Complementarity Problem (LCP) solver performance on randomly generated rigid body contact problems." <i>Proc. IEEE/RSJ Intl. Conference on Intelligent Robots and Systems (IROS)</i>. Portugal, 2012. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2013/12/LCP-eval/">Project page</a>] [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2013/08/iros12.pdf">pdf</a>]
 
@@ -39,7 +39,7 @@ Evan M. Drumwright. "A Fast and Stable Penalty Method for Rigid Body Simulation.
 
 #### Robotic manipulation and humanoid robots
 
-Joshua Lurz and Evan M. Drumwright. "Reducing Human Fall Injuries using a Mobile Manipulator". <i>Proc. of the IEEE-RAS Intl. Conf. on Humanoid Robotics</i>. Seoul, Korea, 2015. [<a href="assets/pdfs/humanoids-2015.pdf">pdf</a>]
+Joshua Lurz and Evan M. Drumwright. "Reducing Human Fall Injuries using a Mobile Manipulator". <i>Proc. of the IEEE-RAS Intl. Conf. on Humanoid Robotics</i>. Seoul, Korea, 2015. [<a href="/assets/pdfs/humanoids-2015.pdf">pdf</a>]
 
 Roxana Leontie, Evan M. Drumwright, Dylan Shell, and Rahul Simha. "Load Equalization on a Two-Arm Robot via Proprioceptive Sensing". <i>Proc. of the 13th Intl. Symp. on Experimental Robotics (ISER).</i> Quebec City, 2012. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2013/08/iser12.pdf">Leontie2012</a>]
 
@@ -81,3 +81,14 @@ and Control". In <i>IEEE Intl. Conf. on Robotics and Automation (ICRA)</i>, pp. 
 Evan M. Drumwright and Maja Mataric'. "Generating and Recognizing
 Free-Space Movement in Humanoid Robotics". In <i>IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)</i>, pp. 1672-1678, Las Vegas,
 NV, Oct 2003. [<a href="http://cres.usc.edu/pubdb_html/files_upload/339.pdf">pdf</a>]
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+         })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-73497600-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
