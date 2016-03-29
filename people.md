@@ -26,6 +26,11 @@ title: People
 
 The Positronics Lab is currently at capacity for Ph. D. students. Only truly outstanding Ph. D. students will be considered.
 
+### Undergraduate students
+
+#### Bjoern Cheng Yi, B.S. 2016 (expected)
+<img class="headShot" src="/assets/img/bjoern_cheng_yi.jpg" height="238" />
+
 ### Alumni
 
 #### Matt Scaperoth, B.S., 2015
