@@ -29,7 +29,7 @@ The Positronics Lab is currently at capacity for Ph. D. students. Only truly out
 ### Undergraduate students
 
 #### Bjoern Cheng Yi, B.S. 2016 (expected)
-<img class="alignnone" alt="Bjoern Cheng Yi" src="/assets/img/bjoern_cheng_yi.jpg" height="238" />
+<img alt="Bjoern Cheng Yi" src="/assets/img/bjoern_cheng_yi.jpg" />
 
 ### Alumni
 
