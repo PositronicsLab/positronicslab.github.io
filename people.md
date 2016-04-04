@@ -31,6 +31,9 @@ The Positronics Lab is currently at capacity for Ph. D. students. Only truly out
 #### Bjoern Cheng Yi, B.S. 2016 (expected)
 <img class="headShot" alt="Bjoern Cheng Yi" src="/assets/img/bjoern_cheng_yi.jpg" height="238" />
 
+#### John Shepherd, B.S. 2018 (expected)
+<img class="headShot" alt="John Shepherd" src="/assets/img/shepherd.jpg" height="238" />
+
 ### Alumni
 
 #### Matt Scaperoth, B.S., 2015
