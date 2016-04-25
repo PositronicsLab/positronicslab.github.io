@@ -3,6 +3,8 @@ layout: default
 title: Publications
 ---
 #### Publications in legged robotic locomotion
+Samuel Zapolsky and  Evan M. Drumwright, "Detecting divergent robot behavior with multi-rigid body simulation and random sampling", <i>The Dynamic Walking Conference (DW 2016)</i>, Holly, MI, June 2016. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2016/06/Zapolsky_2016_DW.pdf">Zapolsky2016</a>]
+
 Samuel Zapolsky, Evan M. Drumwright, "Inverse Dynamics with Rigid Contact and Friction", <i>arXiv paper submission</i>, 2015. [<a href="/assets/pdfs/inverse-dynamics.pdf">Zapolsky2015b</a>]
 
 Samuel Zapolsky and  Evan M. Drumwright, "Pacer: Modular, real-time software for legged robot planning and control", <i>The Dynamic Walking Conference (DW 2015)</i>, Columbus, Ohio, July 2015. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/08/Zapolsky_2015_DW.pdf">Zapolsky2015</a>]
