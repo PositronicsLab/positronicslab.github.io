@@ -3,6 +3,8 @@ layout: default
 title: Publications
 ---
 #### Publications in legged robotic locomotion
+John Shepherd, Samuel Zapolsky, and Evan M. Drumwright, "Fast multi-body simulations of robots controlled with error feedback", Submitted to the <i>IEEE International Conference on Simulation and Programming for Autonomous Robots</i> (SIMPAR), 2016. [<a href="/assets/pdf/SZD16.pdf">SZD16.pdf</a>]
+
 Samuel Zapolsky and  Evan M. Drumwright, "Detecting divergent robot behavior with multi-rigid body simulation and random sampling", <i>The Dynamic Walking Conference (DW 2016)</i>, Holly, MI, June 2016. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2016/06/Zapolsky_2016_DW.pdf">Zapolsky2016</a>]
 
 Samuel Zapolsky, Evan M. Drumwright, "Inverse Dynamics with Rigid Contact and Friction", <i>arXiv paper submission</i>, 2015. [<a href="/assets/pdfs/inverse-dynamics.pdf">Zapolsky2015b</a>]
@@ -15,6 +17,8 @@ Samuel Zapolsky, Evan M. Drumwright, Ioannis Havoutis, Jonas Buchli, and Claudio
 
 
 #### Publications in robotic simulation 
+Bjoern Cheng Yi and Evan M. Drumwright, "Determining Contact Data for Rigid Body Dynamics with Convex Polyhedral Geometries", Submitted to the <i>IEEE International Conference on Simulation and Programming for Autonomous Robots</i> (SIMPAR), 2016. [<a href="/assets/pdf/CD16.pdf">CD16.pdf</a>]
+
 Samuel Zapolsky, Evan M. Drumwright, "Adaptive Integration for Controlling Speed vs. Accuracy in Multi-Rigid Body Simulation", <i>The 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2015)</i>, Hamburg, Germany, Sep 2015. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/08/IROS2015-Zapolsky.pdf">Zapolsky2015a</a>]
 
 James R. Taylor, Evan M. Drumwright and Gabriel Parmer, "Making Time Make Sense in Robotic Simulation", <i>The 2014 International Conference on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR 2014)</i>, Bergamo, Italy, Oct 2014. [<a title="pdf" href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/11/taylor2014_2.pdf">Taylor2014a</a>]
