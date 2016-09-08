@@ -19,7 +19,7 @@ Samuel Zapolsky, Evan M. Drumwright, Ioannis Havoutis, Jonas Buchli, and Claudio
 #### Publications in robotic simulation 
 James R Taylor, Evan M. Drumwright, and John Hsu, "Analysis of Grasping Failures in Multi-Rigid Body Simulations", Submitted to the <i>IEEE International Conference on Simulation and Programming for Autonomous Robots</i> (SIMPAR), 2016. [<a href="/assets/pdfs/simpar-2016-grasping.pdf">Taylor2016b.pdf</a>]
 
-James R Taylor and Evan M. Drumwright, "State Estimation of a Wild Body Toward Validation of Rigid Body Simulation", Submitted to the <i>IEEE International Conference on Simulation and Programming for Autonomous Robots</i> (SIMPAR), 2016. [<a href="/assets/pdfs/simpar-2016-grasping.pdf">Taylor2016a.pdf</a>]
+James R Taylor and Evan M. Drumwright, "State Estimation of a Wild Body Toward Validation of Rigid Body Simulation", Submitted to the <i>IEEE International Conference on Simulation and Programming for Autonomous Robots</i> (SIMPAR), 2016. [<a href="/assets/pdfs/simpar-2016-wb.pdf">Taylor2016a.pdf</a>]
 
 Bjoern Cheng Yi and Evan M. Drumwright, "Determining Contact Data for Rigid Body Dynamics with Convex Polyhedral Geometries", Submitted to the <i>IEEE International Conference on Simulation and Programming for Autonomous Robots</i> (SIMPAR), 2016. [<a href="/assets/pdfs/CD16.pdf">CD16.pdf</a>]
 
