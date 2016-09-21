@@ -3,7 +3,11 @@ layout: default
 title: Publications
 ---
 #### Publications in legged robotic locomotion
+Bradley Canaday, Samuel Zapolsky, Evan M. Drumwright, "Interactive, Iterative Robot Design", <i>IEEE International Conference on Robotics and Automation</i> (ICRA). Singapore, May 2017. [<a href="/assets/pdfs/CZD16.pdf">Canaday2016</a>]
+
 John Shepherd, Samuel Zapolsky, and Evan M. Drumwright, "Fast multi-body simulations of robots controlled with error feedback", Submitted to the <i>IEEE International Conference on Simulation and Programming for Autonomous Robots</i> (SIMPAR), 2016. [<a href="/assets/pdfs/SZD16.pdf">SZD16.pdf</a>]
+
+Samuel Zapolsky, Evan M. Drumwright, "Particle Traces for Detecting Divergent Robot Behavior", <i>IEEE-RAS International Conference on Humanoid Robots</i> (Humanoids). Cancun, Mexico, Nov 2016. [<a href="/assets/pdfs/ZD16.pdf">Zapolsky2016</a>]
 
 Samuel Zapolsky and  Evan M. Drumwright, "Detecting divergent robot behavior with multi-rigid body simulation and random sampling", <i>The Dynamic Walking Conference (DW 2016)</i>, Holly, MI, June 2016. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2016/06/Zapolsky_2016_DW.pdf">Zapolsky2016</a>]
 
