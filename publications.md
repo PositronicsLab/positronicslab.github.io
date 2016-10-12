@@ -5,13 +5,13 @@ title: Publications
 #### Publications in legged robotic locomotion
 Bradley Canaday, Samuel Zapolsky, Evan M. Drumwright, "Interactive, Iterative Robot Design", <i>IEEE International Conference on Robotics and Automation</i> (ICRA). Singapore, May 2017. [<a href="/assets/pdfs/CZD16.pdf">Canaday2016</a>]
 
-John Shepherd, Samuel Zapolsky, and Evan M. Drumwright, "Fast multi-body simulations of robots controlled with error feedback", Submitted to the <i>IEEE International Conference on Simulation and Programming for Autonomous Robots</i> (SIMPAR), 2016. [<a href="/assets/pdfs/SZD16.pdf">SZD16.pdf</a>]
+John Shepherd, Samuel Zapolsky, and Evan M. Drumwright, "Fast multi-body simulations of robots controlled with error feedback", <i>IEEE International Conference on Simulation and Programming for Autonomous Robots</i> (SIMPAR), 2016. [<a href="/assets/pdfs/SZD16.pdf">SZD16.pdf</a>]
 
 Samuel Zapolsky, Evan M. Drumwright, "Particle Traces for Detecting Divergent Robot Behavior", <i>IEEE-RAS International Conference on Humanoid Robots</i> (Humanoids). Cancun, Mexico, Nov 2016. [<a href="/assets/pdfs/ZD16.pdf">Zapolsky2016</a>]
 
 Samuel Zapolsky and  Evan M. Drumwright, "Detecting divergent robot behavior with multi-rigid body simulation and random sampling", <i>The Dynamic Walking Conference (DW 2016)</i>, Holly, MI, June 2016. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2016/06/Zapolsky_2016_DW.pdf">Zapolsky2016</a>]
 
-Samuel Zapolsky, Evan M. Drumwright, "Inverse Dynamics with Rigid Contact and Friction", <i>arXiv paper submission</i>, 2015. [<a href="/assets/pdfs/inverse-dynamics.pdf">Zapolsky2015b</a>]
+Samuel Zapolsky, Evan M. Drumwright, "Inverse Dynamics with Rigid Contact and Friction", <i>Auton Robot</i>, 2016. [<a href="/assets/pdfs/inverse-dynamics.pdf">Zapolsky2015b</a>]
 
 Samuel Zapolsky and  Evan M. Drumwright, "Pacer: Modular, real-time software for legged robot planning and control", <i>The Dynamic Walking Conference (DW 2015)</i>, Columbus, Ohio, July 2015. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/08/Zapolsky_2015_DW.pdf">Zapolsky2015</a>]
 
@@ -21,11 +21,11 @@ Samuel Zapolsky, Evan M. Drumwright, Ioannis Havoutis, Jonas Buchli, and Claudio
 
 
 #### Publications in robotic simulation 
-James R Taylor, Evan M. Drumwright, and John Hsu, "Analysis of Grasping Failures in Multi-Rigid Body Simulations", Submitted to the <i>IEEE International Conference on Simulation and Programming for Autonomous Robots</i> (SIMPAR), 2016. [<a href="/assets/pdfs/simpar-2016-grasping.pdf">Taylor2016b.pdf</a>]
+James R Taylor, Evan M. Drumwright, and John Hsu, "Analysis of Grasping Failures in Multi-Rigid Body Simulations", <i>IEEE International Conference on Simulation and Programming for Autonomous Robots</i> (SIMPAR), 2016. [<a href="/assets/pdfs/simpar-2016-grasping.pdf">Taylor2016b.pdf</a>]
 
-James R Taylor and Evan M. Drumwright, "State Estimation of a Wild Body Toward Validation of Rigid Body Simulation", Submitted to the <i>IEEE International Conference on Simulation and Programming for Autonomous Robots</i> (SIMPAR), 2016. [<a href="/assets/pdfs/simpar-2016-wb.pdf">Taylor2016a.pdf</a>]
+James R Taylor and Evan M. Drumwright, "State Estimation of a Wild Body Toward Validation of Rigid Body Simulation", <i>IEEE International Conference on Simulation and Programming for Autonomous Robots</i> (SIMPAR), 2016. [<a href="/assets/pdfs/simpar-2016-wb.pdf">Taylor2016a.pdf</a>]
 
-Bjoern Cheng Yi and Evan M. Drumwright, "Determining Contact Data for Rigid Body Dynamics with Convex Polyhedral Geometries", Submitted to the <i>IEEE International Conference on Simulation and Programming for Autonomous Robots</i> (SIMPAR), 2016. [<a href="/assets/pdfs/CD16.pdf">CD16.pdf</a>]
+Bjoern Cheng Yi and Evan M. Drumwright, "Determining Contact Data for Rigid Body Dynamics with Convex Polyhedral Geometries", <i>IEEE International Conference on Simulation and Programming for Autonomous Robots</i> (SIMPAR), 2016. [<a href="/assets/pdfs/CD16.pdf">CD16.pdf</a>]
 
 Samuel Zapolsky, Evan M. Drumwright, "Adaptive Integration for Controlling Speed vs. Accuracy in Multi-Rigid Body Simulation", <i>The 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2015)</i>, Hamburg, Germany, Sep 2015. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2014/08/IROS2015-Zapolsky.pdf">Zapolsky2015a</a>]
 
