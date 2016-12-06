@@ -29,6 +29,12 @@ date:   2016-12-1
 
 ## Pacer Locomotion Software
 
+### Control with poor modeling ###
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTlj56jMwpU" frameborder="0" allowfullscreen></iframe>
+</center>
+
 ### Sprinting ###
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/14wq-qxbYvg" frameborder="0" allowfullscreen></iframe>
