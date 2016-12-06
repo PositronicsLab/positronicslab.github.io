@@ -4,9 +4,20 @@ title:  "High-level Quadruped Control (Joystick)"
 category: locomotion
 date:   2015-05-10
 ---
+## RC Quadruped
+<span class="dropcap">D</span>emonstration of the RC quadruped **Links**.
 
-<p class="intro"><span class="dropcap">T</span>he video demonstrates open-loop quadruped locomotion using the <a href="https://github.com/PositronicsLab/Pacer" title="Pacer">Pacer</a> software package.</p>
+This demo uses the [Pacer](https://github.com/PositronicsLab/Pacer "Open-sourced Pacer") library.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=pOzGo5PdZ-k
-" target="_blank"><img src="http://img.youtube.com/vi/pOzGo5PdZ-k/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="400" border="10" /></a>
+### Version 1 ###
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BRg-ggzcXAU" frameborder="0" allowfullscreen></iframe>
+</center>
+
+### Version 2 ###
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/URA8VVZPcRM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TjROysJMpIs" frameborder="0" allowfullscreen></iframe>
+</center>
