@@ -4,7 +4,7 @@ title:  "Robot Demo Videos"
 category: locomotion
 date:   2016-12-1
 ---
-<span class="dropcap">T</span>his pages contains a collection of video demonstrations from the [Pacer](https://github.com/PositronicsLab/Pacer "Open-sourced Pacer") library.
+<span class="dropcap">T</span>his page contains a collection of video demonstrations of the [Pacer](https://github.com/PositronicsLab/Pacer "Open-sourced Pacer") library.
 
 ## RC Quadruped
 
