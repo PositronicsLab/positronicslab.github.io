@@ -21,6 +21,12 @@ date:   2016-12-1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TjROysJMpIs" frameborder="0" allowfullscreen></iframe>
 </center>
 
+### Version 3 ###
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CuQiAdyjN2Y" frameborder="0" allowfullscreen></iframe>
+</center>
+
 ## Pacer Locomotion Software
 
 ### Sprinting ###
