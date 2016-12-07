@@ -5,26 +5,33 @@ category: locomotion
 date:   2016-12-1
 ---
 <span class="dropcap">T</span>his page contains a collection of video demonstrations of the [Pacer](https://github.com/PositronicsLab/Pacer "Open-sourced Pacer") library.
+## Quadrupeds (in situ)
 
-## RC Quadruped
+### RC Quadruped ###
 
-### Version 1 ###
+#### Version 1 ####
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BRg-ggzcXAU" frameborder="0" allowfullscreen></iframe>
 </center>
 
-### Version 2 ###
+#### Version 2 ####
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/URA8VVZPcRM" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TjROysJMpIs" frameborder="0" allowfullscreen></iframe>
 </center>
 
-### Version 3 ###
+#### Version 3 ####
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CuQiAdyjN2Y" frameborder="0" allowfullscreen></iframe>
+</center>
+
+### Interactive, Iterative Design ###
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i2YMenH8XbA" frameborder="0" allowfullscreen></iframe>
 </center>
 
 ## Pacer Locomotion Software
@@ -110,10 +117,3 @@ date:   2016-12-1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OUjfRATna8w" frameborder="0" allowfullscreen></iframe>
 </center>
 
-## Quadrupeds (in situ)
-
-### Iterative, Interactive Design ###
-
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i2YMenH8XbA" frameborder="0" allowfullscreen></iframe>
-</center>
