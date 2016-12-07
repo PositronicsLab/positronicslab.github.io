@@ -36,6 +36,18 @@ date:   2016-12-1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tn14_UPcjQs" frameborder="0" allowfullscreen></iframe>
 </center>
 
+#### Traversing Obstacle ####
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_ufkZSLLDo8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5eVhLpvVCsE" frameborder="0" allowfullscreen></iframe>
+</center>
+
+#### Walking with different gait timings ####
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ecKxQgKrx_8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-pzcwG6vQuM" frameborder="0" allowfullscreen></iframe>
+</center>
+
 ### Sprinting ###
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/14wq-qxbYvg" frameborder="0" allowfullscreen></iframe>
@@ -53,23 +65,7 @@ date:   2016-12-1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7mOU0r5z50g" frameborder="0" allowfullscreen></iframe>
 </center>
 
-### Locomotion Planning ###
-
-#### Uncertain Robot Model ####
-
-##### Traversing Obstacle #####
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_ufkZSLLDo8" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5eVhLpvVCsE" frameborder="0" allowfullscreen></iframe>
-</center>
-
-##### Traversing Obstacle #####
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ecKxQgKrx_8" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-pzcwG6vQuM" frameborder="0" allowfullscreen></iframe>
-</center>
-
-#### Early Development ####
+### Early Development (with [OSRF](https://www.osrfoundation.org/)) ###
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-NO0S5JET8M" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OlwUN7s2tdY" frameborder="0" allowfullscreen></iframe>
@@ -98,7 +94,7 @@ date:   2016-12-1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O0hPO62KSDA" frameborder="0" allowfullscreen></iframe>
 </center>
 
-#### Experiments on HyQ ####
+#### Experiments on HyQ (with [IIT: DLS Lab](http://old.iit.it/en/advr-labs/dynamic-legged-systems.html)) ####
 
 ##### Trotting #####
 
