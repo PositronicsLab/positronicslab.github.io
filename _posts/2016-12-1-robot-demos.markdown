@@ -114,7 +114,25 @@ date:   2016-12-1
 ##### Shifting Weight #####
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oJF9ZJXCnlk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CuQiAdyjN2Y" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OUjfRATna8w" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oJF9ZJXCnlk" frameborder="0" allowfullscreen></iframe>
+</center>
+
+## More *Links* Robot (in situ)
+
+### Successes ###
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZoBx7ofu-PA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pcUi89LQbSI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UvXIpgXOeoo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lLPU-b5PU34" frameborder="0" allowfullscreen></iframe>
+</center>
+
+### Failures ###
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vk2Sr7sWHDA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dZ4RUNB0360" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tbm0WrpgLA0" frameborder="0" allowfullscreen></iframe>
 </center>
 
