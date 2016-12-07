@@ -123,6 +123,7 @@ date:   2016-12-1
 
 ### Successes ###
 <center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CuQiAdyjN2Y" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZoBx7ofu-PA" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pcUi89LQbSI" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UvXIpgXOeoo" frameborder="0" allowfullscreen></iframe>
