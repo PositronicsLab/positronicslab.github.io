@@ -54,12 +54,28 @@ date:   2016-12-1
 </center>
 
 ### Locomotion Planning ###
+
+#### Uncertain Robot Model ####
+
+##### Traversing Obstacle #####
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_ufkZSLLDo8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5eVhLpvVCsE" frameborder="0" allowfullscreen></iframe>
+</center>
+
+##### Traversing Obstacle #####
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ecKxQgKrx_8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-pzcwG6vQuM" frameborder="0" allowfullscreen></iframe>
+</center>
+
+#### Early Development ####
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-NO0S5JET8M" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OlwUN7s2tdY" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f5EbGleL3MY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hzf0_Kd9Xg8" frameborder="0" allowfullscreen></iframe>
 </center>
-
 
 ### PID vs IDYN control ###
 
@@ -80,6 +96,22 @@ date:   2016-12-1
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eSRJDFbOiXM" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O0hPO62KSDA" frameborder="0" allowfullscreen></iframe>
+</center>
+
+#### Experiments on HyQ ####
+
+##### Trotting #####
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mrXHaaJc7-A" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HXW951K7FOM" frameborder="0" allowfullscreen></iframe>
+</center>
+
+##### Shifting Weight #####
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oJF9ZJXCnlk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OUjfRATna8w" frameborder="0" allowfullscreen></iframe>
 </center>
 
 ## Quadrupeds (in situ)
