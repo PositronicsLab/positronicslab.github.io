@@ -137,3 +137,40 @@ date:   2016-12-1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tbm0WrpgLA0" frameborder="0" allowfullscreen></iframe>
 </center>
 
+## Model Uncertainty with Grasping
+
+### Direct Approach (reaching directly for object) ###
+
+#### All Uncertain Models ####
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q1RUOqyha4M" frameborder="0" allowfullscreen></iframe>
+</center>
+
+#### Success ####
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tWZhDGqwajc" frameborder="0" allowfullscreen></iframe>
+</center>
+
+#### Failures ####
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qYs7G76yuTY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mfoEaH5kif4" frameborder="0" allowfullscreen></iframe>
+</center>
+
+### Indirect Approach (Following a *safe* path to object) ###
+
+#### All Uncertain Models ####
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A0v0V8_G9zc" frameborder="0" allowfullscreen></iframe>
+</center>
+
+#### Success ####
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TMwxlLcncdg" frameborder="0" allowfullscreen></iframe>
+</center>
+
+#### Failures ####
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BVJgrDdxX4s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LQD-uIFmsmw" frameborder="0" allowfullscreen></iframe>
+</center>
