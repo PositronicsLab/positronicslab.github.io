@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Grasp Data"
+title:  "Grasp Simulation Study and Data Repository"
 category: simulation
 date:   2014-10-01
 ---
