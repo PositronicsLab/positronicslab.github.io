@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wild Robot: Weazelball Motion Study and Data Repository"
+title:  "Wild Robot Motion Study and Data Repository"
 category: simulation
 date:   2016-09-01
 ---
