@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "TCS: Time Consistent Simulation"
+category: simulation
+date:   2014-04-01
+---
+
+<p class="intro"><span class="dropcap">T</span>CS: A framework for time consistent simulation.</p>
+
+Project page:
+<a title="https://github.com/PositronicsLab/tcs" href="https://github.com/PositronicsLab/tcs">https://github.com/PositronicsLab/tcs</a>
+
