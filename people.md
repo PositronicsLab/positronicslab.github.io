@@ -13,16 +13,16 @@ title: People
 ### Ph. D. Students:
 
 #### [James Taylor](http://robotics.gwu.edu/~james)
-<img class="headShot" src="http://robotics.gwu.edu/~james/wp-content/uploads/2014/06/profile.png" alt="jrtaylor" width="226" height="238" />
+<img class="headShot" src="/assets/img/jrt.jpg" alt="jrtaylor" width="226" />
 
 #### [Samuel Zapolsky](http://samzapo.github.io/)
-<img class="headShot" src="http://robotics.gwu.edu/positronics/wp-content/uploads/2013/08/cropped-970272_10151540372311409_1255555815_n.jpg" alt="szapolsky" width="226" height="238" />
+<img class="headShot" src="/assets/img/samzapo.jpg" alt="szapolsky" width="226" />
 
 #### [Roxana Leontie](http://robotics.gwu.edu/positronics/?page_id=65)
-<img class="headShot" src="http://robotics.gwu.edu/positronics/wp-content/uploads/2013/08/roxana_pic.jpg" alt="roxana" width="226" height="240" />
+<img class="headShot" src="/assets/img/roxana_pic.jpg" alt="roxana" width="226" />
 
 #### [Joshua Lurz](http://robotics.gwu.edu/positronics/?page_id=69)
-<img class="alignnone  wp-image-147" src="http://robotics.gwu.edu/positronics/wp-content/uploads/2013/08/josh_at_harpers.jpg" alt="Joshua Lurz" width="228" height="276" />
+<img class="headShot" src="/assets/img/josh_at_harpers.jpg" alt="Joshua Lurz" width="226" />
 
 The Positronics Lab is currently at capacity for Ph. D. students. Only truly outstanding Ph. D. students will be considered.
 
