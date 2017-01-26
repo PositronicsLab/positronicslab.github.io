@@ -18,7 +18,7 @@ title: People
 #### [Samuel Zapolsky](http://samzapo.github.io/)
 <img class="headShot" src="/assets/img/samzapo.jpg" alt="szapolsky" width="226" />
 
-#### [Roxana Leontie](http://robotics.gwu.edu/positronics/?page_id=65)
+#### [Roxana Leontie](http://leontier.github.io/)
 <img class="headShot" src="/assets/img/roxana_pic.jpg" alt="roxana" width="226" />
 
 #### [Joshua Lurz](http://robotics.gwu.edu/positronics/?page_id=69)
