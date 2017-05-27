@@ -12,7 +12,7 @@ title: People
 
 ### Ph. D. Students:
 
-#### [James Taylor](http://robotics.gwu.edu/~james)
+#### [James Taylor](http://semajrolyat.github.io/)
 <img class="headShot" src="/assets/img/jrt.png" alt="jrtaylor" width="226" />
 
 #### [Samuel Zapolsky](http://samzapo.github.io/)
