@@ -2,6 +2,20 @@
 layout: default
 title: Publications
 ---
+#### Publications in modeling contact between rigid bodies
+
+Nima Fazeli, Samuel Zapolsky, Evan M. Drumwright, and Alberto Rodriguez. "Learning Data-Efficient Rigid-Body Contact Models: Case Study of Planar Impact". Proc. Conf. on Robot Learning (CoRL), 2017. 
+[<a href="/assets/pdfs/FDZR17b.pdf">FZDR17b.pdf</a>]
+
+Nima Fazeli, Samuel Zapolsky, Evan M. Drumwright, and Alberto Rodriguez. "Fundamental Limitations in Performance and Interpretability of Common Planar Rigid-Body Contact Models". Proc. International Symposium on Robotics Research (ISRR), 2017. 
+[<a href="/assets/pdfs/FDZR17a.pdf">FZDR17a.pdf</a>]
+
+Nima Fazeli, Elliott Donlon, Evan M. Drumwright, and Alberto Rodriguez. "Empirical evaluation of common contact models for planar impact". <i>Proc. of the IEEE Intl. Conf. on Robotics and Automation (ICRA), 2017.  [<a href="/assets/pdfs/FDDR17.pdf">FDDR17.pdf</a>]
+
+Bjoern Cheng Yi and Evan M. Drumwright, "Determining Contact Data for Rigid Body Dynamics with Convex Polyhedral Geometries", <i>IEEE International Conference on Simulation and Programming for Autonomous Robots</i> (SIMPAR), 2016. [<a href="/assets/pdfs/CD16.pdf">CD16.pdf</a>]
+
+Evan M. Drumwright and Dylan Shell. "Modeling Contact Friction and Joint Friction in Dynamic Robotic Simulation Using the Principle of Maximum Dissipation". <i>Proc. of the 9th International Workshop on the Algorithmic Foundations of Robotics (WAFR).</i> Singapore, 2010. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2013/08/WAFR10.pdf">pdf</a>]
+
 #### Publications in legged robotic locomotion
 Bradley Canaday, Samuel Zapolsky, Evan M. Drumwright, "Interactive, Iterative Robot Design", <i>IEEE International Conference on Robotics and Automation</i> (ICRA). Singapore, May 2017. [<a href="/assets/pdfs/CZD16.pdf">Canaday2016</a>]
 
