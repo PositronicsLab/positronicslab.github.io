@@ -10,7 +10,7 @@ Nima Fazeli, Samuel Zapolsky, Evan M. Drumwright, and Alberto Rodriguez. "Learni
 Nima Fazeli, Samuel Zapolsky, Evan M. Drumwright, and Alberto Rodriguez. "Fundamental Limitations in Performance and Interpretability of Common Planar Rigid-Body Contact Models". Proc. International Symposium on Robotics Research (ISRR), 2017. 
 [<a href="/assets/pdfs/FDZR17a.pdf">FZDR17a.pdf</a>]
 
-Nima Fazeli, Elliott Donlon, Evan M. Drumwright, and Alberto Rodriguez. "Empirical evaluation of common contact models for planar impact". <i>Proc. of the IEEE Intl. Conf. on Robotics and Automation (ICRA), 2017.  [<a href="/assets/pdfs/FDDR17.pdf">FDDR17.pdf</a>]
+Nima Fazeli, Elliott Donlon, Evan M. Drumwright, and Alberto Rodriguez. "Empirical evaluation of common contact models for planar impact". <i>Proc. of the IEEE Intl. Conf. on Robotics and Automation (ICRA)</i>, 2017.  [<a href="/assets/pdfs/FDDR17.pdf">FDDR17.pdf</a>]
 
 Bjoern Cheng Yi and Evan M. Drumwright, "Determining Contact Data for Rigid Body Dynamics with Convex Polyhedral Geometries", <i>IEEE International Conference on Simulation and Programming for Autonomous Robots</i> (SIMPAR), 2016. [<a href="/assets/pdfs/CD16.pdf">CD16.pdf</a>]
 
@@ -109,14 +109,3 @@ and Control". In <i>IEEE Intl. Conf. on Robotics and Automation (ICRA)</i>, pp. 
 Evan M. Drumwright and Maja Mataric'. "Generating and Recognizing
 Free-Space Movement in Humanoid Robotics". In <i>IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems (IROS)</i>, pp. 1672-1678, Las Vegas,
 NV, Oct 2003. [<a href="http://cres.usc.edu/pubdb_html/files_upload/339.pdf">pdf</a>]
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-         })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-73497600-1', 'auto');
-    ga('send', 'pageview');
-
-</script>
