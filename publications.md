@@ -4,10 +4,10 @@ title: Publications
 ---
 #### Publications in modeling contact between rigid bodies
 
-Nima Fazeli, Samuel Zapolsky, Evan M. Drumwright, and Alberto Rodriguez. "Learning Data-Efficient Rigid-Body Contact Models: Case Study of Planar Impact". Proc. Conf. on Robot Learning (CoRL), 2017. 
+Nima Fazeli, Samuel Zapolsky, Evan M. Drumwright, and Alberto Rodriguez. "Learning Data-Efficient Rigid-Body Contact Models: Case Study of Planar Impact". <i>Proc. Conf. on Robot Learning (CoRL)</i>, 2017. 
 [<a href="/assets/pdfs/FDZR17b.pdf">FZDR17b.pdf</a>]
 
-Nima Fazeli, Samuel Zapolsky, Evan M. Drumwright, and Alberto Rodriguez. "Fundamental Limitations in Performance and Interpretability of Common Planar Rigid-Body Contact Models". Proc. International Symposium on Robotics Research (ISRR), 2017. 
+Nima Fazeli, Samuel Zapolsky, Evan M. Drumwright, and Alberto Rodriguez. "Fundamental Limitations in Performance and Interpretability of Common Planar Rigid-Body Contact Models". Proc. <i>International Symposium on Robotics Research (ISRR)</i>, 2017. 
 [<a href="/assets/pdfs/FDZR17a.pdf">FZDR17a.pdf</a>]
 
 Nima Fazeli, Elliott Donlon, Evan M. Drumwright, and Alberto Rodriguez. "Empirical evaluation of common contact models for planar impact". <i>Proc. of the IEEE Intl. Conf. on Robotics and Automation (ICRA)</i>, 2017.  [<a href="/assets/pdfs/FDDR17.pdf">FDDR17.pdf</a>]
